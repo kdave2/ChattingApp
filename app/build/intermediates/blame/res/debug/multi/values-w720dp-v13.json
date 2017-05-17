@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    }
+]

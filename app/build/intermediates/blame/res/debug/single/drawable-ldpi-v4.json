@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

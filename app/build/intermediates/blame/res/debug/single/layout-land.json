@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/fragment_layout.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout-land/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/activity_peers_fragment.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout-land/activity_peers_fragment.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/activity_peers_fragment.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout-land/activity_peers_fragment.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/activity_peers_fragment.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout-land/activity_peers_fragment.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/fragment_layout.xml",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/layout-land/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/fragment_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout-land/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/fragment_layout.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout-land/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-land/activity_peers.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout-land/activity_peers.xml"
+    }
+]

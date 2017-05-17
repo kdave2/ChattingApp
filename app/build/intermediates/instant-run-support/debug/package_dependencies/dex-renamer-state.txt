@@ -1,0 +1,7 @@
+#Sun May 14 20:21:46 EDT 2017
+base.0=/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_81f649b2989033a5c52501f2ed63d0b016e2c4e0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71497d135fab924bcfee6b63b852961b1857e1a7/classes.dex
+base.1=/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71497d135fab924bcfee6b63b852961b1857e1a7
+file.0=/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_81f649b2989033a5c52501f2ed63d0b016e2c4e0/classes.dex

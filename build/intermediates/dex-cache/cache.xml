@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/khushalidave/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_81f649b2989033a5c52501f2ed63d0b016e2c4e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71497d135fab924bcfee6b63b852961b1857e1a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d5fc3ccdf42caa7a944c60837222dca3873dd4a">
+        <dex dex="/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a261d917914fbee58e206253ba96b278481ce8d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d90912597cc954e9182b4cf354c2c433e8819823/classes.dex" />
+    </item>
+
+</items>

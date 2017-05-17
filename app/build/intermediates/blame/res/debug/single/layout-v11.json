@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout-v11/abc_action_bar_decor.xml"
+    }
+]

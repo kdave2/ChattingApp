@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_layout.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/activity_peers.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/activity_peers.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/activity_peers_fragment.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/activity_peers_fragment.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_add_message.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/fragment_add_message.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_send_room.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/fragment_send_room.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/activity_peers.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/activity_peers.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_screen.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_screen.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_layout.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_layout.xml",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/layout/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_screen.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_screen.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_screen.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_screen.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/activity_peers_fragment.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/activity_peers_fragment.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/activity_peers_fragment.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/activity_peers_fragment.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_add_message.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/fragment_add_message.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_send_room.xml",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/layout/fragment_send_room.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_send_room.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/fragment_send_room.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_send_room.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/fragment_send_room.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_add_message.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/fragment_add_message.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/fragment_add_message.xml",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/layout/fragment_add_message.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/activity_peers.xml",
+        "source": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/src/main/res/layout/activity_peers.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/MehulGupta/Stevens/CS522/522 Assignments/Assignment 8/Mehul_Gupta/MultiPaneChatRoom/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/MehulGupta_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/khushalidave/Documents/College Data/CS-522/KhushaliDave_CS522_A8/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/khushalidave/.android/build-cache/3af5c6c9346d59b3b51d5ba724b238a55572a31b/output/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/MehulGupta/AndroidStudioProjects/MultiPaneChatRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_title_item.xml"
+    }
+]

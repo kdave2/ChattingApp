@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Multipane Chat App</string>
+    <string name="user_name">Client</string>
+    <string name="app_port">8080</string>
+
+    <!-- String literals in the UI -->
+    <string name="destination_host">Host</string>
+    <string name="target_host_default">10.0.2.2</string>
+    <string name="destination_port">Port</string>
+    <string name="target_port_default">8080</string>
+    <string name="destination_port_default">8080</string>
+    <string name="destination_host_default">10.0.2.2</string>
+    <string name="message_edit_text">Enter Message</string>
+    <string name="send_label">SEND</string>
+    <string name="next_label">NEXT</string>
+    <string name="menu_show_peers">SHOW PEERS</string>
+    <string name="title_activity_peers">Peer List</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_set_head">MULTIPANE CHAT ROOM</string>
+    <string name="name_TxtView">Client Name:</string>
+    <string name="name_btn">LOGIN</string>
+    <string name="title_activity_chat_client">Multipane Chat App</string>
+    <string name="menu_msg">Send Message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
